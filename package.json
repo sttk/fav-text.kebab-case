@@ -1,6 +1,6 @@
 {
   "name": "@fav/text.kebab-case",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts a string into kebab case.",
   "main": "index.js",
   "files": [
