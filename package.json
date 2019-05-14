@@ -36,12 +36,19 @@
   },
   "homepage": "https://github.com/sttk/fav-text.kebab-case#readme",
   "devDependencies": {
+    "benchmark": "^2.1.4",
+    "benchmark-tester": "^0.3.0",
     "browserify": "^16.1.0",
-    "coveralls": "^3.0.0",
     "chai": "^3.5.0",
+    "change-case": "^3.1.0",
+    "coveralls": "^3.0.0",
     "eslint": "^5.16.0",
+    "just-kebab-case": "^1.1.0",
+    "kebab-case": "^1.0.0",
+    "liftoff": "^3.1.0",
     "mocha": "^3.5.3",
     "nyc": "^14.1.1",
+    "platform": "^1.3.5",
     "uglify-js": "^3.1.3"
   },
   "dependencies": {
